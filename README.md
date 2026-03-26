@@ -170,7 +170,7 @@ sudo ./scripts/script3_disk_permission_auditor.sh
 ```bash
 ./scripts/script5_manifesto_generator.sh
 ```
-Interactive — the script will prompt you for three answers. Your manifesto is saved as `manifesto_[yourusername].txt` in the current directory.
+Interactive — the script will prompt you for three answers. Your manifesto is saved as `manifesto.txt` in the current directory.
 
 ---
 
